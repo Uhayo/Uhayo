@@ -3,6 +3,4 @@
 ### Hi, I'm Uhayo👋
 >
 
-🔗 https://Uhayo.com/
-
-🔗 https://Aifadian.com
+🔗 https://note.uhayo.com/
