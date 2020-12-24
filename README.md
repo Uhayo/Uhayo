@@ -8,7 +8,7 @@
     <br>我是一名软件测试工程师
     <br>一名有着二年以上的工作经验（马上快三年了） :sparkles:<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-    <br><br>:coffee: 联系我 :point_right: @推特 href="https://twitter.com/weqtian">Twitter</a>
+    <br><br>:coffee: 联系我 :point_right:
   </samp>
 </p>
 
