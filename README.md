@@ -4,9 +4,9 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
   <samp>
-    :wave: 嗨！我叫晴天
-    <br>我是一名软件测试工程师
-    <br>一名有着二年以上的工作经验（马上快三年了） :sparkles:<br><br>
+    :wave: Hi! My name is sunny
+    <br>I am a software test engineer
+    <br>has more than two years of work experience (it’s almost three years soon) :sparkles:<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
 </p>
